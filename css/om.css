@@ -1,0 +1,42 @@
+body{
+	background-color: #3AAFA9;
+	color:black;
+	line-height: 1.6em;
+
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+
+.box-1{
+	
+	color: white;
+	
+	border: 2px black solid;
+	padding: 10px;
+}
+
+
+.box-2{
+	border: 4px dotted black;
+	margin: 10px;
+	padding: 5px;
+	background-color:#DE21;
+	color: white;
+}
+.box-2 h1{
+	text-transform: uppercase;}
+.flutter{
+color: white;
+}
+.use h1{
+	color: white;
+}
+.use{
+	color: white;
+}
+.footer{
+	color: black;
+	text-align: center;
+}
